@@ -1,151 +1,118 @@
- <h1 align="center"> HITDEV MD </h1> 
-<p align="center"> A simple WhatsApp bot with rich features. </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+<div align="center">
+ 👑<b>KEITH MD</b>👑</b>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+	   
  
-<h3 align="center"> <a href="https://github.com/HITDeveloper2023/HITDEV-MD-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
-
-<h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
-
-
-<p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="HITDEV-MD" height="400" src="/lib/assets/pk.jpg">
-  </a>
-</p>
-    
-   
-   
-<p align="center">
-   <a href="https://github.com/HITDeveloper2023/HITDEV-MD/fork">
-    <img src="https://img.shields.io/github/forks/HITDeveloper2023/HITDEV-MD?style=flat-square&logo=github&color=darkred">
-   </a>
-  <a href="https://github.com/HITDeveloper2023/HITDEV-MD/stargazers"> 
-     <img src="https://img.shields.io/github/stars/HITDeveloper2023/HITDEV-MD?style=flat-square&logo=github&color=darkred">
- </a>
-
-
-
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="HITDeveloper2023 Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
-  </a>
-
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{HITDeveloper2023}/count.svg" alt="HITDeveloper2023 :: Visitor's Count" /></p>
-
-<p align="center">
-
- <a href="https://github.com/HITDeveloper2023">
- <img title="Owner" src="https://img.shields.io/badge/HITDeveloper2023-darkred?style=flat-square&logo=github&label=owner"></a>
-   <a href="https://github.com/HITDeveloper2023">
-    <img src="https://img.shields.io/github/followers/HITDeveloper2023?style=flat-square&logo=github&color=darkred">
-  </a>
   
-
- 
- </p>
-
-
-
-
-
----
-
-
-
-
-<p align="center"> Suhail MD whatsapp bot uses
-  <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
+  
+  <div align="center">
+	  
 </p>
-<p align="center">
-  <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
-</p>
+</a>
+<h1 align="center"><b>HEY I AM MR KEITH</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
----
 
 <p align="center">
-  <a href="https://github.com/HITDeveloper2023/HITDEV-MD"><b>HITDEV-MD</b></a> Support Deploy On...
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Always+creating+best+bots,;My+Hobby+Is+to+deploy+WhatsApp+bots,;Keith+is+an+active+Hacker/Ready+to+hacker+any+thing,;Love+to+learn+new+stuffs..<3"></a>
 </p>
+                       
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/10cac2ce2fbfcdcd0b6e8.jpg" alt="01" border="0" /></a>                     
+ <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐊𝐄𝐈𝐓𝐇_𝐌𝐃;𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+BY+𝐊𝐄𝐈𝐓𝐇𝐊𝐄𝐈𝐙𝐙𝐀𝐇" alt="Typing SVG" /></a>
+  </p>
+	 
+  <a aria-label="Keith-md is free to use" href="https://youtube.com/@keithkeizzah" target="_blank">
+    <img alt="Keithkeizzah" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  </a>
 
-<p align="center">
-  <a href="https://github.com/HITDeveloper2023/HITDEV-MD/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://suhail-web01.vercel.app/deploy?platform=railway"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
-</p>
-<p align="center">
-  <a href="https://suhail-web01.vercel.app/deploy?platform=heroku"> <img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"> </a>
-  <a href="https://suhail-web01.vercel.app/deploy?platform=repl"  > <img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"> </a>
-  <a href="https://suhail-web01.vercel.app/deploy?platform=koyed" > <img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white">    </a>
- <a href="https://suhail-web01.vercel.app/deploy?platform=glitch" > <img src="https://img.shields.io/badge/glitch-033604?style=for-the-badge&logo=glitch&logoColor=darkred"></a>
-</p>
-<p align="center">
-  <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
-</p>
-<p align="center">Need help? please create an <a href="https://github.com/HITDeveloper2023/HITDEV-MD/issues">issue</a></p>
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- 
+  
+## THE THREE STEPS TO MAKE THE BOT
+	
+📌 FIRST FORK THE REPO.
 
+📌 NEXT SCAN THE QR AND TAKE THE SEASSON ID.
 
-
-## Bot Games
----
-1. ***Connect Four Game.***
-2.  ***Tic Tac Toe.***
-3.  ***Number Guessing Game.***
-4.  ***Word chain Game.***
-5.  ***Hidden Card Game.***
-6.  ***Rolling Dice.***
-7.  ***Character Guessing Game.***
-8.  ***Capital of City Finding.***
-##
+📌 AFTER CLICK FOR YOUR SIUTABLE DEPLOYMENT PLATFORM AND DEPLOY THE BOT.  
 
 
- 
+NEW METHOD ADDED (SCAN SESSION WITH YOUR NUMBER)
+EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO YOUR WhatsApp
+
+1. Fork the repo
+    <br>
+<a href='https://github.com/Keithkeizzah/KEITH-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
+𝗦𝗖𝗔𝗡 𝗖𝗢𝗗𝗘 𝗪𝗜𝗧𝗛 𝗬𝗢𝗨𝗥 𝗡𝗨𝗠𝗕𝗘𝗥
+        👇👇👇👇
+	
+ ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://keithsessiongenerator-2086623d174d.herokuapp.com/)***
+
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   
+   𝗦𝗖𝗔𝗡 𝗤𝗥 👇👇
 
 
     
+   ***Get `SESSION ID` by [`SCANING 𝗤𝗥`](https://keithsessiongenerator-2086623d174d.herokuapp.com/qr)                 
+  
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+                       		 
    
-## Deployment Methods
----
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
-2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
-3.  ***Click [`FORK`](https://github.com/HITDeveloper2023/HITDEV-MD/fork) and `Star ⭐ Repository` for Courage.***
-4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=suhail).  `FIXED! ✔️`***
-6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=repl). ([Tutorial](https://youtu.be/hPXU9OjMryQ) )***
-7.  ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
-8.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/deploy?platform=koyeb)***
-9. ***Deploy on [`Glitch`](https://suhail-web01.vercel.app/deploy?platform=glitch)***
-10. ***Deploy on [`RENDER`](https://suhail-web01.vercel.app/deploy?on=render)***
-10. ***Get [`More Plugins`](https://github.com/HITDeveloper2023/HITDEV-MD-Media)***
-##
+   𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
 
- <details close>
-<summary>RENDER DEPLOY PROCESS</summary>
-   
-    1: Click "NEW".
-    2: Select "Web Service".
-    3: Click "Build and deploy from a Git repository".
-    4: Now Choose this forked git repo from list.
-    5: And JUST CLICK "Connect". 
-   </details>
+    
+***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/Keithkeizzah/KEITH-MD)*** 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
----
+### Thanks To
+- [Sam Pamday](https://github.com/Sampandey001) 
 
 
-- Star ⭐ repo if you like this bot.
-- If any problem, then create an [`+issue`](https://github.com/HITDeveloper2023/HITDEV-MD/issues/new) Or ask anything here [`+Q&A`](https://github.com/HITDeveloper2023/HITDEV-MD/discussions/new?category=q-a)!
+The 𝗞𝗘𝗜𝗧𝗛 𝗠𝗗 is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
 
 
+<h2 align="center">  NOTICE
+</h2>
 
-
-<h2 align="center"> ⚠️ NOTE  </h2>
-
-   
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
 ## 
+star repo if you like this bot✨
+##
+-if any problem you can message me https://wa.me/message/CJGVIXZNWMKKE1
 
-- *HITDEV-MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use HITDEV-MD at your own risk by keeping this warning in mind.*
 
+* [`Keith keizzah`](https://github.com/Keithkeizzah) ***Author, Owner***
+
+* <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+##
+<p align="center" >
+<a href="https://chat.whatsapp.com/KeEYrEX8UDdGD4m4GbdHaA"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
+</a>
+</p>
+<br>
+
+<a href="https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+##
+𝐊𝐄𝐈𝐓𝐇-𝐌𝐃
+
+[![Keith tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+keith;hacker🥰)](https://github.com/keithkeizzah)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
