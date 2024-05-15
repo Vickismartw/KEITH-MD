@@ -25,8 +25,8 @@
   
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/HITDeveloper2023/HITDEV-MD
-      cd HITDEV-MD
+      git clone https://github.com/Keithkeizzah/KEITH-MD
+      cd KEITH-MD
       yarn install --network-concurrency 1
       ```
 
@@ -60,7 +60,7 @@
  
 <h2 align="center">  NOTICE </h2>
 ---
-- *HITDEV-MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *KEITH-MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use HITDEV-MD at your own risk by keeping this warning in mind.*
+- *Use KEITH-MD at your own risk by keeping this warning in mind.*
  
